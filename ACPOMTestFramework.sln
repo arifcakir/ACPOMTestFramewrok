@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACAutoTestFramework", "ACAutoTestFramework\ACAutoTestFramework.csproj", "{41C8C15D-46B8-47D8-A094-D63253B43C0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACPTTTest", "ACInsiderAmazonTest\ACPTTTest.csproj", "{37F737E4-FCCA-477D-AF5D-4EE06C252C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C8C15D-46B8-47D8-A094-D63253B43C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C8C15D-46B8-47D8-A094-D63253B43C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C8C15D-46B8-47D8-A094-D63253B43C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C8C15D-46B8-47D8-A094-D63253B43C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F737E4-FCCA-477D-AF5D-4EE06C252C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F737E4-FCCA-477D-AF5D-4EE06C252C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F737E4-FCCA-477D-AF5D-4EE06C252C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F737E4-FCCA-477D-AF5D-4EE06C252C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56D87D04-F9BE-4162-8811-C34D0507898A}
+	EndGlobalSection
+EndGlobal
